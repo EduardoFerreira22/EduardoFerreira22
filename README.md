@@ -25,6 +25,7 @@
 
 ##
 <div>
+  <img align="center" alt="Rafa-SQL" height="20" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
   <img align="center" alt="Rafa-SQL" height="20" width="100" src="https://img.shields.io/badge/Windows-ACER_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
   <img align="center" alt="Rafa-SQL" height="20" width="70" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
   <img align="center" alt="Rafa-SQL" height="20" width="70" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
