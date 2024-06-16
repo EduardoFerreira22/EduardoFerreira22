@@ -1,17 +1,7 @@
 ### Prazer! 
 ### Me chamo Eduardo Ferreira👋
 ##
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EduardoFerreira22&show_icons=true&theme=prussian"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EduardoFerreira22&show_icons=true&theme=prussian"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoFerreira22&show_icons=true&theme=prussian" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoFerreira22\&include_all_commits=true\&show_icons=true\&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
