@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Olá, sou Eduardo Ferreira.</h2>
+
+<h3 align="left">🚀 Sobre Mim</h3>
+
+- 💻 **Especialidades**: Python, SQL, Django, desenvolvimento web e automação
+
+
+- 🌱 **Aprendendo**: Novas tecnologias e frameworks para expandir minhas habilidades
 
 ###
 
